@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Trần Minh Nhật
+A developer from Việt Nam
+
+![](https://komarev.com/ghpvc/?username=nhatran241&color=blue)
 
 <!--
 **Nhatran241/Nhatran241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
