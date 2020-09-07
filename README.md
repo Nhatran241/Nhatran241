@@ -1,8 +1,9 @@
 ### Hi there 👋 I'm Trần Minh Nhật
-<p align="center">
+
 A developer from Việt Nam
-</p>
+
 ![](https://komarev.com/ghpvc/?username=nhatran241&color=blue)
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nhatran241)](https://github.com/anuraghazra/github-readme-stats)
 
 
