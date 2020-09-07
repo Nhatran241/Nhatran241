@@ -2,12 +2,8 @@
 <p align="center">
 A developer from Việt Nam
 </p>
-<p align="center">
 ![](https://komarev.com/ghpvc/?username=nhatran241&color=blue)
-</p>
-<p align="center">
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nhatran241)](https://github.com/anuraghazra/github-readme-stats)
-</p>
 
 
 <!--
