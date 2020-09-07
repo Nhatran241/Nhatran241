@@ -3,6 +3,8 @@ A developer from Việt Nam
 
 ![](https://komarev.com/ghpvc/?username=nhatran241&color=blue)
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nhatran241)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Nhatran241/Nhatran241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
